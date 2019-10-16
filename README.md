@@ -1,3 +1,3 @@
 # Tutorial 5
 
-Walking through git commands.
+Walking through git commands..
